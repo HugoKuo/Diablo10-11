@@ -1,0 +1,7 @@
+export NOVA_USERNAME="admin"
+export NOVA_API_KEY="tony1020"
+export NOVA_PROJECT_ID="1"
+export NOVA_URL="http://10.103.1.134:5000/v2.0"
+export NOVA_REGION_NAME="RegionOne"
+export NOVA_VERSION="1.1"
+
